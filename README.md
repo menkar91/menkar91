@@ -1,16 +1,31 @@
-### Hi there 👋
+### 👋 Hola y gracias por ver mi perfil, a continuación presento mis habilidades
 
-<!--
-**menkar91/menkar91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Base de datos:
+- SQL Server         ⭐⭐⭐⭐⭐
+- MySQL              ⭐⭐⭐⭐
+- SAP Hana           ⭐⭐⭐⭐
+- PostgreSQL         ⭐⭐⭐
 
-Here are some ideas to get you started:
+# Herramientas de carga y transformación de datos:
+- Microsoft Excel    ⭐⭐⭐⭐⭐
+- Google Sheets      ⭐⭐⭐⭐⭐
+- Power Query        ⭐⭐⭐⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Herramientas de modelado y visualización de datos:
+- Power BI           ⭐⭐⭐⭐⭐
+- Power Pivot        ⭐⭐⭐⭐
+- Crystal Report     ⭐⭐⭐⭐
+- Google Data Studio ⭐⭐⭐
+
+# Herramientas de scripting y automatización:
+- SQL Backup         ⭐⭐⭐⭐⭐
+- Apps Script        ⭐⭐⭐⭐
+- VBA Office         ⭐⭐⭐⭐
+- Power BI Gateway   ⭐⭐⭐⭐
+- Power Automate     ⭐⭐⭐
+
+# Próximas metas:
+- AppSheet           ❤️❤️❤️❤️❤️
+- Python             ❤️❤️❤️❤️
+- MongoDB            ❤️❤️❤️❤️
+- TypeScript         ❤️❤️❤️❤️
