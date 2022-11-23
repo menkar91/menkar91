@@ -1,7 +1,7 @@
 ### 👋 Hola y gracias por ver mi perfil. 🛠️ A continuación, presento mis habilidades: 
 
 <br/>
-
+  
 |🗄️|Base de datos|Nivel|
 |-|-|-|
 |![SQL Server](https://i.imgur.com/NQ2eQjR.png)| `SQL Server` |⭐⭐⭐⭐⭐|
@@ -44,3 +44,7 @@
 |![Python](https://i.imgur.com/8kjrYQ6.png)| `Python` | ❤️❤️❤️❤️ |
 |![MongoDB](https://i.imgur.com/vuIJOKQ.png)| `MongoDB` | ❤️❤️❤️❤️ |
 |![TypeScript](https://i.imgur.com/qZlDMbP.png)| `TypeScript` | ❤️❤️❤️❤️ |
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menkar91&layout=compact)](https://github.com/menkar91/github-readme-stats)
