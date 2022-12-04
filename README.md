@@ -32,15 +32,23 @@
 |-|-|-|
 |![SQL Backup](https://i.imgur.com/TWK24Xi.png)| `SQL Backup` | ⭐⭐⭐⭐⭐ |
 |![App Script](https://i.imgur.com/zdtSQSa.png)| `Apps Script` | ⭐⭐⭐⭐ |
-|![VBA](https://i.imgur.com/Ke1HOcM.png)| `VBA Office` | ⭐⭐⭐⭐ |
+|![VBA](https://i.imgur.com/Ke1HOcM.png)| `VBA (Visual Basic for Applications)` | ⭐⭐⭐⭐ |
 |![Data Gateway](https://i.imgur.com/BNqzIk3.png)| `Data Gateway` | ⭐⭐⭐⭐ |
 |![Power Auatomate](https://i.imgur.com/kls8UBK.png)| `Power Automate` | ⭐⭐⭐ |
 
 <br/>
 
-|💻|Otros|Nivel|
+|🧑🏻‍💻|Programación|Nivel|
 |-|-|-|
 |![Clarion](https://i.imgur.com/D9WRPm8.png)| `Clarion (SoftVelocity)` | ⭐⭐⭐⭐⭐ |
+
+<br/>
+
+|💻|Otros softwares (ERP)|Nivel|
+|-|-|-|
+|![Krystalos](https://i.imgur.com/n9o6UQC.png)| `Krystalos` | ⭐⭐⭐⭐⭐ |
+|![Zeus](https://i.imgur.com/NDdvgEE.png)| `Zeus software` | ⭐⭐⭐⭐ |
+|![SAP BO](https://i.imgur.com/bp6nPL3.png)| `SAP Business One` | ⭐⭐⭐⭐ |
 
 <br/>
 
