@@ -37,10 +37,10 @@
 |![Power Auatomate](https://i.imgur.com/kls8UBK.png)| `Power Automate` | ⭐⭐⭐ |
 
 <br/>
+
 |💻|Otros|Nivel|
 |-|-|-|
 |![Clarion](https://i.imgur.com/D9WRPm8.png)| `Clarion (SoftVelocity)` | ⭐⭐⭐⭐⭐ |
-
 
 <br/>
 
