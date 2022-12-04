@@ -24,7 +24,7 @@
 |![Power BI](https://i.imgur.com/D1GZf9u.png)| `Power BI` | ⭐⭐⭐⭐⭐ |
 |![Power Pivot](https://i.imgur.com/O3ztH4O.png)| `Power Pivot` | ⭐⭐⭐⭐ |
 |![Crystal Report](https://i.imgur.com/wOrpcbH.png)| `Crystal Report` | ⭐⭐⭐⭐ |
-|![Google Data Studio](https://i.imgur.com/i91fIJ8.png)| `Google Data Studio` | ⭐⭐⭐ |
+|![Looker Studio](https://i.imgur.com/TXIKNo6.png)| `Looker Studio (Google Data Studio)` | ⭐⭐⭐ |
 
 <br/>
 
@@ -37,14 +37,20 @@
 |![Power Auatomate](https://i.imgur.com/kls8UBK.png)| `Power Automate` | ⭐⭐⭐ |
 
 <br/>
+|💻|Otros|Nivel|
+|-|-|-|
+|![Clarion](https://i.imgur.com/D9WRPm8.png)| `Clarion (SoftVelocity)` | ⭐⭐⭐⭐⭐ |
+
+
+<br/>
 
 |🔓|Próximos a desbloquear|Nivel de interes|
 |-|-|-|
-|![AppSheet](https://i.imgur.com/a2JTMhz.png)| `AppSheet` | ❤️❤️❤️❤️❤️ |
+|![AppSheet](https://i.imgur.com/a2JTMhz.png)| `AppSheet` | ❤️❤️❤️❤️ |
+|![Zapier](https://i.imgur.com/E7wl4KD.png)| `Zapier` | ❤️❤️❤️❤️ |
 |![Python](https://i.imgur.com/8kjrYQ6.png)| `Python` | ❤️❤️❤️❤️ |
-|![MongoDB](https://i.imgur.com/vuIJOKQ.png)| `MongoDB` | ❤️❤️❤️❤️ |
-|![TypeScript](https://i.imgur.com/qZlDMbP.png)| `TypeScript` | ❤️❤️❤️❤️ |
-
+|![R](https://i.imgur.com/1RPY6gt.png)| `R` | ❤️❤️❤️ |
+|![SharePoint](https://i.imgur.com/kdwWAZT.png)| `SharePoint` | ❤️❤️❤️ |
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menkar91&layout=compact)](https://github.com/menkar91/github-readme-stats)
