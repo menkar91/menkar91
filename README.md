@@ -34,6 +34,7 @@
 |![App Script](https://i.imgur.com/zdtSQSa.png)| `Apps Script` | ⭐⭐⭐⭐ |
 |![VBA](https://i.imgur.com/Ke1HOcM.png)| `VBA (Visual Basic for Applications)` | ⭐⭐⭐⭐ |
 |![Data Gateway](https://i.imgur.com/BNqzIk3.png)| `Data Gateway` | ⭐⭐⭐⭐ |
+|![Zapier](https://i.imgur.com/E7wl4KD.png)| `Zapier` | ⭐⭐⭐⭐ |
 |![Power Auatomate](https://i.imgur.com/kls8UBK.png)| `Power Automate` | ⭐⭐⭐ |
 
 <br/>
@@ -41,6 +42,14 @@
 |🧑🏻‍💻|Programación|Nivel|
 |-|-|-|
 |![Clarion](https://i.imgur.com/D9WRPm8.png)| `Clarion (SoftVelocity)` | ⭐⭐⭐⭐⭐ |
+
+<br/>
+
+|📱|No-Code platform|Nivel|
+|-|-|-|
+|![AppSheet](https://i.imgur.com/a2JTMhz.png)| `AppSheet` | ⭐⭐⭐⭐ |
+|![Notion](https://i.imgur.com/a2JTMhz.png)| `Notion y Super` | ⭐⭐⭐⭐ |
+
 
 <br/>
 
@@ -54,8 +63,6 @@
 
 |🔓|Próximos a desbloquear|Nivel de interes|
 |-|-|-|
-|![AppSheet](https://i.imgur.com/a2JTMhz.png)| `AppSheet` | ❤️❤️❤️❤️ |
-|![Zapier](https://i.imgur.com/E7wl4KD.png)| `Zapier` | ❤️❤️❤️❤️ |
 |![Python](https://i.imgur.com/8kjrYQ6.png)| `Python` | ❤️❤️❤️❤️ |
 |![R](https://i.imgur.com/1RPY6gt.png)| `R` | ❤️❤️❤️ |
 |![SharePoint](https://i.imgur.com/kdwWAZT.png)| `SharePoint` | ❤️❤️❤️ |
