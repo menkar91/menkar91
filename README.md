@@ -2,7 +2,7 @@
 
 <br/>
   
-|🗄️|Base de datos|Nivel|
+|🗄️|Bases de datos|Nivel|
 |-|-|-|
 |![SQL Server](https://i.imgur.com/NQ2eQjR.png)| `SQL Server` |⭐⭐⭐⭐⭐|
 |![SAP Hana](https://i.imgur.com/oUnQ4km.png)| `SAP Hana` | ⭐⭐⭐⭐ |
@@ -47,8 +47,8 @@
 
 |📱|No-Code platform|Nivel|
 |-|-|-|
-|![AppSheet](https://i.imgur.com/a2JTMhz.png)| `AppSheet` | ⭐⭐⭐⭐ |
-|![Notion](https://i.imgur.com/a2JTMhz.png)| `Notion y Super` | ⭐⭐⭐⭐ |
+|![AppSheet](https://i.imgur.com/a2JTMhz.png)| `AppSheet` | ⭐⭐⭐⭐⭐ |
+|![Notion](https://i.imgur.com/8Ki9Eyx.png)| `Notion y Super` | ⭐⭐⭐⭐ |
 
 
 <br/>
