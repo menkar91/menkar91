@@ -58,6 +58,7 @@
 |![Krystalos](https://i.imgur.com/n9o6UQC.png)| `Krystalos` | ⭐⭐⭐⭐⭐ |
 |![Zeus](https://i.imgur.com/NDdvgEE.png)| `Zeus software` | ⭐⭐⭐⭐ |
 |![SAP BO](https://i.imgur.com/bp6nPL3.png)| `SAP Business One` | ⭐⭐⭐⭐ |
+|![Siigo](https://i.imgur.com/QgbXdIw.png)| `Siigo` | ⭐⭐⭐⭐ |
 
 <br/>
 
