@@ -15,15 +15,15 @@
 |-|-|-|
 |![Microsoft Excel](https://i.imgur.com/4sPSA20.png)| `Microsoft Excel` | ⭐⭐⭐⭐⭐ |
 |![Google Sheets](https://i.imgur.com/87Il3QP.png)| `Google Sheets` | ⭐⭐⭐⭐⭐ |
-|![Power Query](https://i.imgur.com/1XmeS9k.png)| `Power Query` | ⭐⭐⭐⭐ |
+|![Power Query](https://i.imgur.com/1XmeS9k.png)| `Power Query` | ⭐⭐⭐⭐⭐ |
 
 <br/>
 
 |📊|Herramientas de modelado y visualización de datos|Nivel|
 |-|-|-|
 |![Power BI](https://i.imgur.com/D1GZf9u.png)| `Power BI` | ⭐⭐⭐⭐⭐ |
+|![Crystal Report](https://i.imgur.com/wOrpcbH.png)| `Crystal Report` | ⭐⭐⭐⭐⭐ |
 |![Power Pivot](https://i.imgur.com/O3ztH4O.png)| `Power Pivot` | ⭐⭐⭐⭐ |
-|![Crystal Report](https://i.imgur.com/wOrpcbH.png)| `Crystal Report` | ⭐⭐⭐⭐ |
 |![Looker Studio](https://i.imgur.com/TXIKNo6.png)| `Looker Studio (Google Data Studio)` | ⭐⭐⭐ |
 
 <br/>
@@ -56,8 +56,8 @@
 |💻|Otros softwares (ERP)|Nivel|
 |-|-|-|
 |![Krystalos](https://i.imgur.com/n9o6UQC.png)| `Krystalos` | ⭐⭐⭐⭐⭐ |
+|![SAP BO](https://i.imgur.com/bp6nPL3.png)| `SAP Business One` | ⭐⭐⭐⭐⭐ |
 |![Zeus](https://i.imgur.com/NDdvgEE.png)| `Zeus software` | ⭐⭐⭐⭐ |
-|![SAP BO](https://i.imgur.com/bp6nPL3.png)| `SAP Business One` | ⭐⭐⭐⭐ |
 |![Siigo](https://i.imgur.com/QgbXdIw.png)| `Siigo` | ⭐⭐⭐⭐ |
 
 <br/>
